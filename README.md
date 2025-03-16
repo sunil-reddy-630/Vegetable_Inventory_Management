@@ -1,4 +1,4 @@
-# Vegetable_Inventory_Management# Vegetable Inventory Management System
+# Vegetable Inventory Management System
 
 This is a simple vegetable inventory management system implemented in Python. It allows the owner to manage the inventory and users to purchase items from the inventory.
 
