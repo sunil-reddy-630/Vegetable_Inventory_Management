@@ -8,7 +8,7 @@ This is a simple vegetable inventory management system implemented in Python. It
 - User login to purchase items
 - Add, remove, and update items in the inventory
 - View inventory and user details
-- Generate billing and profit/loss report
+- Generate billing and profit/loss report. 
 
 ## Code Flow
 
